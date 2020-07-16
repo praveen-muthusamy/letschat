@@ -4,7 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple chat application created using Flutter and Cloud Firebase.
+
+## Screenshots
+
+![Login](login.PNG) ![Signup](signup.PNG) ![Chat](chat.PNG)
 
 A few resources to get you started if this is your first Flutter project:
 
